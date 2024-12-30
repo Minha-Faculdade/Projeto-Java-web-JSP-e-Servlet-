@@ -1,7 +1,0 @@
-br\edu\ifms\crud\App.class
-br\edu\ifms\crud\dao\NoticiaDao.class
-br\edu\ifms\crud\servico\NoticiaSEI.class
-br\edu\ifms\crud\dao\NoticiaImpl.class
-br\edu\ifms\crud\servico\NoticiaSIB.class
-br\edu\ifms\crud\modelo\Noticia.class
-br\edu\ifms\crud\util\Conexao.class
