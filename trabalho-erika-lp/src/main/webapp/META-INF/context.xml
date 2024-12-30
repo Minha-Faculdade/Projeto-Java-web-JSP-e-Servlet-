@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context crossContext="true">
+
+  <Resource name="jdbc/mysql" auth="Container"
+           type="javax.sql.DataSource" minIdle="20" maxIdle="100"
+           maxWait="30000" username="root" password="1234"
+           driverClassName="com.mysql.cj.jdbc.Driver"
+           url="jdbc:mysql://localhost:3306/trabalho_lpIII" />
+
+</Context>
