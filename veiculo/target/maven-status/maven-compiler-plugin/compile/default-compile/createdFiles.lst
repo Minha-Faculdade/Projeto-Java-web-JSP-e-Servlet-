@@ -1,7 +1,0 @@
-br\edu\ifms\veiculo\modelo\Veiculo.class
-br\edu\ifms\veiculo\dao\VeiculoImpl.class
-br\edu\ifms\veiculo\servico\VeiculoSEI.class
-br\edu\ifms\veiculo\dao\VeiculoDao.class
-br\edu\ifms\veiculo\App.class
-br\edu\ifms\veiculo\servico\VeiculoSIB.class
-br\edu\ifms\veiculo\util\Conexao.class
