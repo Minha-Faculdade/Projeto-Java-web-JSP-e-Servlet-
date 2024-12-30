@@ -1,4 +1,4 @@
- Crie um projeto java web usando JSP e Servlet usando o Apache Maven e neste
+Crie um projeto java web usando JSP e Servlet usando o Apache Maven e neste
 as bibliotecas necessárias para a aplicação funcionar.
 2) Adicione a seu projeto o Bootstrap e Jquery.
 3) Crie uma página JSP inicial do projeto e nesta página inclua uma página JSP que
